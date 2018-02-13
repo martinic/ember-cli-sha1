@@ -1,5 +1,7 @@
 # ember-cli-sha1
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/martinic/ember-cli-sha1.svg)](https://greenkeeper.io/)
+
 A simple SHA1 hash function that supports UTF-8 encoding.
 
 ## Installation
