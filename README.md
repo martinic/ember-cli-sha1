@@ -1,6 +1,6 @@
 # ember-cli-sha1
 
-A simple SHA1 hash function for JavaScript that supports UTF-8 encoding.
+A simple SHA1 hash function that supports UTF-8 encoding.
 
 ## Installation
 
